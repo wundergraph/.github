@@ -1,4 +1,4 @@
-### WunderGraph
+<img src="profile/intro.png" alt="Tauri" />
 
 The best Developer Experience to build Serverless APIs
 
