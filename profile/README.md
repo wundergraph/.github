@@ -1,17 +1,13 @@
-<img src="profile/intro.png" alt="Tauri" />
 
-The best Developer Experience to build Serverless APIs
+<div align="center"> <a href="https://wundergraph.com/">
+    <img src="profile/intro.png" alt="Tauri" />
+  </a>
+</div>
 
-- Integrates with NextJS, Svelte & Co.
-- Server-Side-Only Compile-Time GraphQL API Layer
-- Auto-Generated TypeSafe Clients
-- OpenID Connect-based Authentication with RBAC
-- S3 integration for File Uploads
-- Configurable with Code, using our TypeScript SDK
-- Optimized for local development
+<div align="center">
+<i>The best Developer Experience to build Serverless APIs</i>
 
-[Try WunderGraph in 3 Minutes](https://wundergraph.com/docs/guides/getting_started/quickstart)
-
-Questions? Feel free to visit our [discord](https://discord.gg/Jjmc8TC) channel.
-
-> WunderGraph is going Open Source. Stay tuned!
+<a href="https://wundergraph.com/docs/guides/getting_started/quickstart">Try WunderGraph in 3 Minutes</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://discord.gg/Jjmc8TC">Join us on discord</a>
+</div>
