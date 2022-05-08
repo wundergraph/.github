@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align="center">
-<i>The best Developer Experience to build Serverless APIs</i>
+<i>The next generation API developer toolkit</i>
 <br/>
 <a href="https://wundergraph.com/docs/guides/getting_started/quickstart">Try WunderGraph in 3 Minutes</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
