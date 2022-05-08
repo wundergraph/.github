@@ -13,3 +13,5 @@ The best Developer Experience to build Serverless APIs
 [Try WunderGraph in 3 Minutes](https://wundergraph.com/docs/guides/getting_started/quickstart)
 
 Questions? Feel free to visit our [discord](https://discord.gg/Jjmc8TC) channel.
+
+> WunderGraph is going Open Source. Stay tuned!
