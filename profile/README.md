@@ -1,3 +1,3 @@
 <a href="https://wundergraph.com/">
-<img src="profile/cover.png" alt="WunderGraph" />
+<img src="profile/intro.png" alt="WunderGraph" />
 </a>
