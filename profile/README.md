@@ -1,5 +1,5 @@
 <p align="center"><a href="https://wundergraph.com/">
-<img src="https://github.com/wundergraph/cosmo/raw/main/docs/assets/logo.png" alt="WunderGraph" />
+<img src="https://github.com/wundergraph/cosmo/raw/main/docs/assets/logo.png" height="500px" alt="WunderGraph" />
 </a>
 </p>
 
